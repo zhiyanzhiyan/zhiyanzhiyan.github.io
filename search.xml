@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>post</title>
+      <link href="/posts/5a8a6c8d.html"/>
+      <url>/posts/5a8a6c8d.html</url>
+      
+        <content type="html"><![CDATA[<h1>How To Prove This Inequallity$\frac{(\sum_i w_i x_i)}{(\sum_i w_i y_i^2)} \leq \sum_i w_i \frac{x_i}{y_i^2}$</h1><h2 id="The-answer-is-below">The answer is below:</h2><h4 id="Since-w-i-geqslant-1-for-all-i-for-non-negetave-numbers-t-i">Since  $w_i\geqslant 1$ for all $i$, for non-negetave numbers $t_i$,</h4><p>$\begin{align*}\Bigl(\sum_{i=1}^\infty w_it_i\Bigr)^2 &amp; =\sum_{i,j=1}^\infty w_iw_jt_it_j = \sum_{i=1}^\infty w_i^2t_i^2 +\sum_{i=1}^\infty\sum_{i\neq j=1}^\infty w_iw_jt_it_j \ &amp; \geqslant \sum_{i=1}^\infty w_i^2t_i^2 \geqslant \sum_{i=1}^\infty w_it_i^2. \end{align*}$</p><h4 id="Taking-square-roots-gives">Taking square roots gives</h4><h3 id="Bigl-sum-i-1-infty-w-it-i-2-Bigr-1-2-leqslant-sum-i-1-infty-w-it-i">$\Bigl(\sum_{i=1}^\infty w_it_i^2\Bigr)^{1/2}\leqslant \sum_{i=1}^\infty w_it_i.$</h3><h4 id="This-is-just-a-special-case-of-the-fact-that-the-weighted-ell-p-w-norm-is-not-less-than-the-weighted-ell-p-w-norm-when-1-leqslant-p-q-when-all-weights-are-at-least-1">This is just a special case of the fact that the weighted $\ell_p(w)$ norm is not less than the weighted $\ell_p(w)$ norm when $1\leqslant p&lt;q$ when all weights are at least $1$.</h4><h4 id="Using-Cauchy-Schwarz-and-then-this-inequality-we-have">Using Cauchy-Schwarz and then this inequality, we have</h4><h4 id="begin-align-sum-i-1-infty-w-ix-i-sum-i-1-infty-w-i-y-i-2-cdot-x-i-y-i-2-leqslant-Bigl-sum-i-1-infty-w-i-y-i-2-2-Bigr-1-2-Bigl-sum-i-1-infty-w-i-x-i-y-i-2-2-Bigr-1-2-leqslant-Bigl-sum-i-1-infty-w-iy-i-2-Bigr-Bigl-sum-i-1-infty-w-i-x-i-y-i-2-Bigr-end-align">$\begin{align*}\sum_{i=1}^\infty w_ix_i &amp; = \sum_{i=1}^\infty w_i y_i^2 \cdot (x_i/y_i^2)  \leqslant \Bigl(\sum_{i=1}^\infty w_i (y_i^2)^2\Bigr)^{1/2}\Bigl(\sum_{i=1}^\infty w_i(x_i/y_i^2)^2\Bigr)^{1/2} \ &amp; \leqslant \Bigl(\sum_{i=1}^\infty w_iy_i^2\Bigr)\Bigl(\sum_{i=1}^\infty w_i(x_i/y_i^2)\Bigr).\end{align*}$</h4><h2 id="A-little-interesting">A little interesting.</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 - null </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 - null </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
