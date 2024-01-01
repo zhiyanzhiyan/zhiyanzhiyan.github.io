@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Fomalhaut🥝</title>
+  <title>知言之言</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://zhiyanzhiyan.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
-  <updated>2023-12-31T14:55:23.795Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <link href="https://zhiyanzhiyan.github.io/"/>
+  <updated>2024-01-01T03:29:38.930Z</updated>
+  <id>https://zhiyanzhiyan.github.io/</id>
   
   <author>
-    <name>Fomalhaut🥝</name>
+    <name>知言</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>post</title>
-    <link href="https://www.fomal.cc/posts/5a8a6c8d.html"/>
-    <id>https://www.fomal.cc/posts/5a8a6c8d.html</id>
+    <link href="https://zhiyanzhiyan.github.io/posts/5a8a6c8d.html"/>
+    <id>https://zhiyanzhiyan.github.io/posts/5a8a6c8d.html</id>
     <published>2023-12-31T14:39:25.000Z</published>
-    <updated>2023-12-31T14:55:23.795Z</updated>
+    <updated>2024-01-01T03:29:38.930Z</updated>
     
     <content type="html"><![CDATA[<h1>How To Prove This Inequallity$\frac{(\sum_i w_i x_i)}{(\sum_i w_i y_i^2)} \leq \sum_i w_i \frac{x_i}{y_i^2}$</h1><h2 id="The-answer-is-below">The answer is below:</h2><h4 id="Since-w-i-geqslant-1-for-all-i-for-non-negetave-numbers-t-i">Since  $w_i\geqslant 1$ for all $i$, for non-negetave numbers $t_i$,</h4><p>$\begin{align*}\Bigl(\sum_{i=1}^\infty w_it_i\Bigr)^2 &amp; =\sum_{i,j=1}^\infty w_iw_jt_it_j = \sum_{i=1}^\infty w_i^2t_i^2 +\sum_{i=1}^\infty\sum_{i\neq j=1}^\infty w_iw_jt_it_j \ &amp; \geqslant \sum_{i=1}^\infty w_i^2t_i^2 \geqslant \sum_{i=1}^\infty w_it_i^2. \end{align*}$</p><h4 id="Taking-square-roots-gives">Taking square roots gives</h4><h3 id="Bigl-sum-i-1-infty-w-it-i-2-Bigr-1-2-leqslant-sum-i-1-infty-w-it-i">$\Bigl(\sum_{i=1}^\infty w_it_i^2\Bigr)^{1/2}\leqslant \sum_{i=1}^\infty w_it_i.$</h3><h4 id="This-is-just-a-special-case-of-the-fact-that-the-weighted-ell-p-w-norm-is-not-less-than-the-weighted-ell-p-w-norm-when-1-leqslant-p-q-when-all-weights-are-at-least-1">This is just a special case of the fact that the weighted $\ell_p(w)$ norm is not less than the weighted $\ell_p(w)$ norm when $1\leqslant p&lt;q$ when all weights are at least $1$.</h4><h4 id="Using-Cauchy-Schwarz-and-then-this-inequality-we-have">Using Cauchy-Schwarz and then this inequality, we have</h4><h4 id="begin-align-sum-i-1-infty-w-ix-i-sum-i-1-infty-w-i-y-i-2-cdot-x-i-y-i-2-leqslant-Bigl-sum-i-1-infty-w-i-y-i-2-2-Bigr-1-2-Bigl-sum-i-1-infty-w-i-x-i-y-i-2-2-Bigr-1-2-leqslant-Bigl-sum-i-1-infty-w-iy-i-2-Bigr-Bigl-sum-i-1-infty-w-i-x-i-y-i-2-Bigr-end-align">$\begin{align*}\sum_{i=1}^\infty w_ix_i &amp; = \sum_{i=1}^\infty w_i y_i^2 \cdot (x_i/y_i^2)  \leqslant \Bigl(\sum_{i=1}^\infty w_i (y_i^2)^2\Bigr)^{1/2}\Bigl(\sum_{i=1}^\infty w_i(x_i/y_i^2)^2\Bigr)^{1/2} \ &amp; \leqslant \Bigl(\sum_{i=1}^\infty w_iy_i^2\Bigr)\Bigl(\sum_{i=1}^\infty w_i(x_i/y_i^2)\Bigr).\end{align*}$</h4><h2 id="A-little-interesting">A little interesting.</h2>]]></content>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="数学 - null" scheme="https://www.fomal.cc/categories/%E6%95%B0%E5%AD%A6-null/"/>
+    <category term="数学" scheme="https://zhiyanzhiyan.github.io/categories/%E6%95%B0%E5%AD%A6/"/>
     
     
-    <category term="数学 - null" scheme="https://www.fomal.cc/tags/%E6%95%B0%E5%AD%A6-null/"/>
+    <category term="数学" scheme="https://zhiyanzhiyan.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://zhiyanzhiyan.github.io/posts/2013454d.html"/>
+    <id>https://zhiyanzhiyan.github.io/posts/2013454d.html</id>
     <published>2023-12-30T13:21:40.232Z</published>
     <updated>2023-12-01T13:00:00.000Z</updated>
     
@@ -52,9 +52,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
-    
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="Markdown" scheme="https://zhiyanzhiyan.github.io/tags/Markdown/"/>
     
   </entry>
   
